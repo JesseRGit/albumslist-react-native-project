@@ -11,3 +11,5 @@ AlbumsList React native program for Android or IOS. Meaning of this project is j
     react-native run-ios
 
 ## Review
+![albumslist](https://user-images.githubusercontent.com/35838078/51186002-3eb0e780-18e1-11e9-9dde-579a4d49e3b0.png)
+
