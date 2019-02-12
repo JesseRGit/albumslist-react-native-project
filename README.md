@@ -1,5 +1,5 @@
 # albumslist-react-native-project
-AlbumsList React native program for Android or IOS. Meaning of this project is just to make use of Axios. Shows some albums from artist (Taylor Swift at the moment) and lets you access the albums amazon page. Made following Udemy's The Complete React Native and Redux Course. 
+AlbumsList React native program for Android or IOS. Meaning of this project is just to make use of Axios. Shows some albums from artist (Taylor Swift at the moment) and lets you access the albums amazon pages. Made following Udemy's The Complete React Native and Redux Course. 
 
 ## Setup
     #Install dependencies   
